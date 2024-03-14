@@ -58,7 +58,7 @@ body {
     .card {
         width: 100%;
         height: auto;
-        border: solid thin blue;
+        /* border: solid thin blue; */
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -78,7 +78,7 @@ body {
     }
     .card__two {
         width: 100%;
-        border: solid thin greenyellow;
+        /* border: solid thin greenyellow; */
         border-top-right-radius: 1.5em ;
         border-bottom-right-radius: 1.5em;
         display: flex;
